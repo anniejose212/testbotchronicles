@@ -1,13 +1,6 @@
 title: TestBot Chronicles
-description: A blog about QA, bugs, automation, and testing insights.
-url: "https://anniejose212.github.io"
-baseurl: "/testbotchronicles"
-
-remote_theme: mmistakes/minimal-mistakes
-plugins:
-  - jekyll-remote-theme
-
-theme: null
+description: A blog about QA, bugs, automation, and testing insights
+theme: minima
 
 
 
