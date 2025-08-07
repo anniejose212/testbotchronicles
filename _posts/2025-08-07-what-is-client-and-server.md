@@ -1,4 +1,5 @@
 ---
+
 layout: post
 title: "What is Client and Sever?"
 date: 2025-07-08
