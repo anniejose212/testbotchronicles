@@ -7,7 +7,7 @@ categories: [qa]
 
 ---
 
-Content:
+# Content:
 
 In the world of software and web applications, the terms "client" and "server" are used frequently. They are key components of how information is delivered across networks like the internet. Let’s break down what each of these means and how they work together.
 
