@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "What is Client and Server?"
-date: 2025-08-07
-categories: [qa manual and automation blog]
+title: "What is Client and Sever?"
+date: 2025-07-08
+categories: [qa]
+
 ---
 
 Content:
