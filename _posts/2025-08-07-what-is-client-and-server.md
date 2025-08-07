@@ -1,10 +1,8 @@
 ---
-
 layout: post
 title: "What is Client and Sever?"
 date: 2025-07-08
 categories: [qa]
-
 ---
 
 # Content:
