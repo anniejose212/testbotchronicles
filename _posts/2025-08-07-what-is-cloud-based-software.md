@@ -1,3 +1,10 @@
+---
+layout: post
+title: "What is Cloud-Based Software?"
+date: 2025-08-07
+categories: [qa manual and automation blog]
+---
+
 Content:
 
 In today’s digital world, the term cloud-based software is everywhere. From email to photo storage to business apps, many tools we use daily are powered by “the cloud.” But what does that really mean?
