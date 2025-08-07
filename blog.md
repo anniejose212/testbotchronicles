@@ -1,5 +1,5 @@
 ---
-layout: cayman
+layout: default
 title: Blog – TestBot Chronicles
 url: /blog
 ---
