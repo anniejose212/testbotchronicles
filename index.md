@@ -15,7 +15,7 @@ This is a QA blog where I share insights on:
 
 ## 📚 Latest Posts
 
-To read my blog posts, [click here](./blog) or explore the `_posts` folder.
+To read my blog posts, [click here](./blog) or explore the `Posts` folder.
 
 ---
 
