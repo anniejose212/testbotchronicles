@@ -2,7 +2,7 @@
 layout: post
 title: "What is Cloud Based Software?"
 date: 2025-08-07
-categories: [qa manual and automation blog]
+categories: [qa, manual, automation, blog]
 ---
 
 Content:
