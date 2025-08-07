@@ -21,7 +21,7 @@ To read my blog posts, [click here](./blog) or explore the `_posts` folder.
 
 ## 👩‍💻 About Me
 
-I'm a QA specialist passionate about delivering quality and uncovering hidden bugs. I believe in combining **human insight** with **automation tools** to achieve the best testing outcomes.
+I'm a QA passionate about delivering quality and uncovering hidden bugs. I believe in combining **human insight** with **automation tools** to achieve the best testing outcomes.
 
 ---
 
