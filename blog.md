@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Blog – TestBot Chronicles
-url: /blog
+url: anniejose212.github.io/testbotchronicles/
 
 ---
 
