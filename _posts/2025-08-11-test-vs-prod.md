@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ""Test vs Prod – Match Matters"
+title: "Test vs Prod – Match Matters"
 date: 2025-08-07
 categories: [qa, manual, automation, blog]
 description: Hidden Risks of Mismatched Environments in Software Development
