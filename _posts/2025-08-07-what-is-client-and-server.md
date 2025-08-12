@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Information delivery across networks"
+title: "Client and Server Basics"
 date: 2025-07-08
 categories: [qa]
-description: Client|Server
+description: Explore the distinct roles of clients and servers and how they seamlessly exchange information online
 ---
 
 # Content:
