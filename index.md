@@ -21,7 +21,7 @@ This is a QA blog where I share insights on:
 
 ## 👩‍💻 About Me
 
-I'm a QA specialist passionate about quality engineering and finding hidden bugs.  
+I'm a QA passionate about quality engineering and finding hidden bugs.  
 This blog is my digital notebook — join me as I explore tools, test strategies, and practical examples from real projects.
 
 > Built with ❤️ using GitHub Pages and the Cayman theme.
