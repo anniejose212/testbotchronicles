@@ -66,8 +66,6 @@ UAT	Business Validation	Clients/Users	High
 PROD	Live Usage	End Users	Very High
 STAGING	Pre-live testing	QA + DevOps	Very High
 
-Would you like the next post now?
-Next Topic: Why do production and test environments have to be similar?
 
 
 
