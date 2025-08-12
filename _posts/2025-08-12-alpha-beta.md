@@ -2,7 +2,7 @@
 layout: default
 title: "Alpha vs Beta Testing"
 date: 2025-08-12
-categories: [qa, manual, automation, blog]
+categories: [manual-mastery]
 description: Learn the difference between Alpha and Beta testing in software release cycles.
 ---
 
