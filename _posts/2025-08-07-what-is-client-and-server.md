@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Information delivery across networks"
 date: 2025-07-08
 categories: [qa]
