@@ -1,8 +1,9 @@
 ---
-layout: post
+layout: default
 title: "What is Cloud Based Software?"
 date: 2025-08-07
 categories: [qa, manual, automation, blog]
+description: description: ""
 ---
 
 Content:
