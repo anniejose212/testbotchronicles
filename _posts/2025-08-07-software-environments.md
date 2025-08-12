@@ -3,6 +3,7 @@ layout: default
 title: "Software Environments"
 date: 2025-08-07
 categories: [qa, manual, automation, blog]
+description:""
 ---
 
 Content:
@@ -65,13 +66,3 @@ TEST/QA	Functional Testing	Testers	Medium
 UAT	Business Validation	Clients/Users	High
 PROD	Live Usage	End Users	Very High
 STAGING	Pre-live testing	QA + DevOps	Very High
-
-
-
-
-
-
-
-
-
-Ask ChatGPT
