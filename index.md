@@ -19,6 +19,19 @@ This is a QA blog where I share insights on:
 
 ---
 
+## 📂 Explore by Category
+
+- [Manual Mastery 🛠](/categories/manual-mastery/)  
+  *Core QA concepts, defect handling, and testing fundamentals.*
+
+- [API Adventures 🔌](/categories/api-adventures/)  
+  *Learn how APIs work, Postman tips, and client-server basics.*
+
+- [Test Environment Secrets 🖥](/categories/test-environment-secrets/)  
+  *Configuration tips and why test vs prod matters.*
+  
+---
+
 ## 👩‍💻 About Me
 
 I'm a QA passionate about quality engineering and finding hidden bugs.  
