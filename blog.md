@@ -17,7 +17,9 @@ description: ""
       </h2>
       <small style="color: #666;">{{ post.date | date: "%d %b %Y" }}</small>
       {% if post.excerpt %}
-        <p style="margin-top: 0.5rem;">{{ post.excerpt | strip_html | truncate: 160 }}</p>
+        <p style="margin-top: 0.5rem;">
+  {{ post.excerpt | replace: "Content:", "" | strip_html | truncate: 160 }}
+</p>
       {% endif %}
     </li>
   {% endfor %}
