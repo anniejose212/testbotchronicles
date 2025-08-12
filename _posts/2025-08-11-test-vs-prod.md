@@ -9,7 +9,7 @@ description: Understand why mirroring test and production environments is critic
 In software development, testing is only as good as the environment it’s done in.  
 If the **test environment** is very different from the **production environment**, there’s a high risk the software might behave differently once it goes live.
 
-Here’s why **similarity between these environments** matters.
+Here’s why **similarity between these environments** matters. 
 
 ---
 
