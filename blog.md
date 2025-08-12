@@ -1,17 +1,29 @@
 ---
 layout: default
 title: Blog
+permalink: /blog/
 ---
 
-# 📝 Blog Posts
+<h1 style="margin-bottom: 1rem;">{{ page.title }}</h1>
+<p>Welcome to my blog! Here you’ll find posts about software concepts, testing, and technology.</p>
 
-Welcome to the blog section of **TestBot Chronicles**. Here's a list of all my posts:
-
-<ul>
+{% if site.posts and site.posts.size > 0 %}
+  <ul style="list-style: none; padding-left: 0;">
   {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-      <small> - {{ post.date | date: "%B %d, %Y" }}</small>
+    <li style="margin-bottom: 1.5rem;">
+      <h2 style="margin-bottom: 0.2rem;">
+        <a href="{{ post.url | relative_url }}" style="text-decoration: none; color: #0366d6;">
+          {{ post.title }}
+        </a>
+      </h2>
+      <small style="color: #666;">{{ post.date | date: "%d %b %Y" }}</small>
+      {% if post.excerpt %}
+        <p style="margin-top: 0.5rem;">{{ post.excerpt | strip_html | truncate: 160 }}</p>
+      {% endif %}
     </li>
   {% endfor %}
-</ul>
+  </ul>
+{% else %}
+  <p>No posts yet. Add files to <code>_posts/</code> like <code>2025-08-07-my-first-post.md</code>.</p>
+{% endif %}
+
