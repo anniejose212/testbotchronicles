@@ -3,22 +3,6 @@ layout: default
 title: TestBot Chronicles
 ---
 
-# 👋 Welcome to TestBot Chronicles
-
-This is a QA blog where I share insights on:
-
-- 🐞 Manual and automated testing
-- 🔧 Tools like Postman, Selenium, Playwright
-- 📋 Bug reports, test plans, and real QA stories
-
----
-
-## 📝 Recent Posts
-
-👉 Visit the [Blog](./blog) to see a list of published articles.
-
----
-
 ## 📂 Explore by Category
 
 - [Manual Mastery 🛠](/categories/manual-mastery/)  
@@ -31,6 +15,21 @@ This is a QA blog where I share insights on:
   *Configuration tips and why test vs prod matters.*
   
 ---
+
+## 📝 Recent Posts
+
+👉 <ul>
+{% for post in site.posts limit:12 %}
+  <li>
+    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    <span> — {{ post.date | date: "%b %d, %Y" }}</span>
+    {% if post.categories and post.categories.size > 0 %}
+      <em> · <a href="{{ '/categories/' | append: post.categories[0] | append: '/' | relative_url }}">{{ post.categories[0] }}</a></em>
+    {% endif %}
+  </li>
+{% endfor %}
+</ul>
+
 
 ## 👩‍💻 About Me
 
