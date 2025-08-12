@@ -4,14 +4,13 @@ title: TestBot Chronicles
 ---
 
 ## 📂 Explore by Category
-
-- [Manual Mastery 🛠](/categories/manual-mastery/)  
+- [Manual Mastery 🛠]({{ "/categories/manual-mastery/" | relative_url }})  
   *Core QA concepts, defect handling, and testing fundamentals.*
 
-- [API Adventures 🔌](/categories/api-adventures/)  
+- [API Adventures 🔌]({{ "/categories/api-adventures/" | relative_url }})  
   *Learn how APIs work, Postman tips, and client-server basics.*
 
-- [DevOps 🖥](/categories/devops/)  
+- [DevOps 🖥]({{ "/categories/devops/" | relative_url }})  
   *Configuration tips and why test vs prod matters.*
   
 ---
