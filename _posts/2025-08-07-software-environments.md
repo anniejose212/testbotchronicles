@@ -7,7 +7,7 @@ description: Examine the essential environments in software development and thei
 ---
 
 When building software, it’s not just coded and released straight to users.  
-It goes through a series of **environments** where it’s developed, tested, and approved.  
+It goes through a series of **environments** where it’s developed, tested, and approved. 
 
 These environments help ensure **quality, stability, and performance** before users ever see the final product.
 
