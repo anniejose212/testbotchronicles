@@ -6,8 +6,6 @@ categories: [qa, manual, automation, blog]
 description: Gain clarity on cloud-based software, its operation, and its transformative impact on modern computing.
 ---
 
-**Content:**
-
 In today’s digital world, the term cloud-based software is everywhere. From email to photo storage to business apps, many tools we use daily are powered by “the cloud.” But what does that really mean?
 
 ☁️ ***What is Cloud-Based Software?***
