@@ -5,9 +5,6 @@ date: 2025-08-11
 categories: [qa, manual, automation, blog]
 description: Discover what a use case is, its structure, and how it captures functional requirements with clarity.
 ---
----
-
-## 📖 What is a Use Case?
 
 In software development, a **use case** is a structured description of how users (or systems) interact with an application to achieve a specific goal. It focuses on **what** the system should do, rather than **how** it does it.
 
