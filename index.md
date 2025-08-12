@@ -27,7 +27,7 @@ This is a QA blog where I share insights on:
 - [API Adventures 🔌](/categories/api-adventures/)  
   *Learn how APIs work, Postman tips, and client-server basics.*
 
-- [Test Environment Secrets 🖥](/categories/test-environment-secrets/)  
+- [DevOps 🖥](/categories/devops/)  
   *Configuration tips and why test vs prod matters.*
   
 ---
