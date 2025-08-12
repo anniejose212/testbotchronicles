@@ -2,7 +2,7 @@
 layout: default
 title: "Bug Prioritisation Essentials"
 date: 2025-08-12
-categories: [qa, manual, automation, blog]
+categories: [manual-mastery]
 description: A clear guide to defect prioritisation, helping teams focus on the most critical issues first.
 ---
 
