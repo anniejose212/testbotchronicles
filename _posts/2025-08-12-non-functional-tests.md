@@ -2,7 +2,7 @@
 layout: default
 title: "Types of Non-Functional Tests"
 date: 2025-08-12
-categories: [qa, manual, automation, blog]
+categories: [manual-mastery]
 description: An overview of non-functional testing types that ensure software quality beyond just functionality.
 ---
 
