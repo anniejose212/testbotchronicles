@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Posts
-permalink: /Post/
+title: Blog
+permalink: /blog/
 description: ""
 ---
 
