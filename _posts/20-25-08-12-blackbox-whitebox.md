@@ -3,7 +3,7 @@ layout: default
 title: "Blackbox vs Whitebox Testing"
 date: 2025-08-12
 categories: [manual-mastery]
-description: A simple comparison between Blackbox and Whitebox testing techniques.
+description: A simple comparison between Blackbox and Whitebox testing techniques. 
 ---
 
 **Blackbox Testing** and **Whitebox Testing** are two fundamental testing approaches used in QA.
