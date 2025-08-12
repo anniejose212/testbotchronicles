@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "What is Client and Sever?"
+title: "Information delivery across networks"
 date: 2025-07-08
 categories: [qa]
+description: Client|Server
 ---
 
 # Content:
