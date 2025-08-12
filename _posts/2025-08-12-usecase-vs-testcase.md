@@ -2,7 +2,7 @@
 layout: default
 title: "Use Case vs Test Case"
 date: 2025-08-12
-categories: [qa, manual, automation, blog]
+categories: [manual- mastery]
 description: A clear comparison of use cases and test cases, highlighting their purpose, structure, and differences in software development.
 ---
 
