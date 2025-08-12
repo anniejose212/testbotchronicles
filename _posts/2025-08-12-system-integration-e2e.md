@@ -2,7 +2,7 @@
 layout: default
 title: "System vs Integration vs End-to-End Testing"
 date: 2025-08-12
-categories: [qa, manual, automation, blog]
+categories: [manual-mastery]
 description: Understand the key differences between System, Integration, and End-to-End testing in software QA.
 ---
 
