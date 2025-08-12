@@ -2,7 +2,7 @@
 layout: default
 title: "Bug Reporting Essentials"
 date: 2025-08-12
-categories: [qa, manual, automation, blog]
+categories: [manual-mastery]
 description: A step-by-step guide to logging defects effectively, ensuring clarity and faster resolution.
 ---
 
