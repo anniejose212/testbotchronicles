@@ -16,8 +16,7 @@ title: TestBot Chronicles
 ---
 
 ## 📝 Recent Posts
-
-👉 
+<ul>
 {% for post in site.posts limit:12 %}
   <li>
     <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
@@ -27,7 +26,7 @@ title: TestBot Chronicles
     {% endif %}
   </li>
 {% endfor %}
-
+</ul>
 
 
 ## 👩‍💻 About Me
