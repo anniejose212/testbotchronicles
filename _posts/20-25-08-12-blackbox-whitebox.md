@@ -2,7 +2,7 @@
 layout: default
 title: "Blackbox vs Whitebox Testing"
 date: 2025-08-12
-categories: [qa, manual, automation, blog]
+categories: [manual mastery]
 description: A simple comparison between Blackbox and Whitebox testing techniques.
 ---
 
