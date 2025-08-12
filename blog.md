@@ -1,12 +1,10 @@
 ---
 layout: default
-title: Blog
-permalink: /blog/
+title: Posts
+permalink: /Post/
 description: ""
 ---
 
-<h1 style="margin-bottom: 1rem;">{{ page.title }}</h1>
-<p> Here you’ll find posts about software concepts, testing, and technology.</p>
 
 {% if site.posts and site.posts.size > 0 %}
   <ul style="list-style: none; padding-left: 0;">
