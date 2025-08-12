@@ -2,7 +2,7 @@
 layout: default
 title: "Use Cases Defined"
 date: 2025-08-11
-categories: [qa, manual, automation, blog]
+categories: [manual-mastery]
 description: Discover what a use case is, its structure, and how it captures functional requirements with clarity.
 ---
 
