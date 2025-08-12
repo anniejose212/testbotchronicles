@@ -6,11 +6,11 @@ categories: [qa]
 description: Explore the distinct roles of clients and servers and how they seamlessly exchange information online
 ---
 
-# H1 Content:
+# Content:
 
 In the world of software and web applications, the terms "client" and "server" are used frequently. They are key components of how information is delivered across networks like the internet. Let’s break down what each of these means and how they work together.
 
-💻***What is a Client?***
+💻 ## What is a Client?
 
 A client is any device or application that sends a request to another device or application to get some data or service. It could be:
 
@@ -22,7 +22,7 @@ A computer accessing a network file
 
 Clients interact with servers by sending requests and receiving responses.
 
-🖥️ What is a Server?
+🖥️ ## What is a Server?
 
 A server is a powerful computer or software that stores data, applications, and services. It responds to requests made by clients. Examples include:
 
