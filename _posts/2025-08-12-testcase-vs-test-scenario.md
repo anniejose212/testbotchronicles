@@ -2,7 +2,7 @@
 layout: default
 title: "Test Case vs Test Scenario"
 date: 2025-08-12
-categories: [manual- mastery]
+categories: [manual-mastery]
 description: A clear comparison of test cases and test scenarios, explaining their purpose, level of detail, and when to use each in software testing.
 ---
 
