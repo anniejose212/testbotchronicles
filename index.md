@@ -3,6 +3,15 @@ layout: default
 title: TestBot Chronicles
 ---
 
+# 🐞 TestBot Chronicles
+
+Welcome to **TestBot Chronicles** — a knowledge hub for curious testers, QA enthusiasts, and anyone passionate about building better software.  
+Here you’ll find **hands-on testing tips, real-world QA experiences, and deep dives** into manual testing, API automation, and DevOps practices.  
+
+Whether you’re **debugging your first app** or **leading a complex test strategy**, this space is designed to help you level up — one post at a time.
+
+---
+
 ## 📂 Explore by Category
 - [Manual Mastery 🛠]({{ "/categories/manual-mastery/" | relative_url }})  
   *Core QA concepts, defect handling, and testing fundamentals.*
