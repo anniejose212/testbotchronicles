@@ -1,12 +1,10 @@
 ---
 layout: default
-title: "Requirement Analysis in SDLC"
+title: "Requirement Analysis Essentials"
 date: 2025-08-12
 categories: [qa, manual, automation, blog]
 description: An overview of the Requirement Analysis phase in the Software Development Life Cycle, with activities, outcomes, and a practical example.
 ---
-
-# Requirement Analysis in SDLC
 
 The **Requirement Analysis** phase is one of the most critical steps in the **Software Development Life Cycle (SDLC)**. It defines **what** the system must do to meet stakeholder needs, ensuring the foundation for all subsequent stages.
 
