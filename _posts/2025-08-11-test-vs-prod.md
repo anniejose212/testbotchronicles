@@ -2,7 +2,7 @@
 layout: default
 title: "Test vs Prod - Match Matters"
 date: 2025-08-11
-categories: [manual-mastery]
+categories: [devops]
 description: Understand why mirroring test and production environments is critical to ensuring flawless releases.
 ---
 
