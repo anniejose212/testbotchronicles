@@ -2,7 +2,7 @@
 layout: default
 title: "Requirement Analysis Essentials"
 date: 2025-08-12
-categories: [qa, manual, automation, blog]
+categories: [manual-mastery]
 description: An overview of the Requirement Analysis phase in the Software Development Life Cycle, with activities, outcomes, and a practical example.
 ---
 
