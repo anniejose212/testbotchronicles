@@ -1,12 +1,10 @@
 ---
 layout: default
-title: "BugReporting Essentials"
+title: "Bug Reporting Essentials"
 date: 2025-08-12
 categories: [qa, manual, automation, blog]
 description: A step-by-step guide to logging defects effectively, ensuring clarity and faster resolution.
 ---
-
-# Logging a Bug
 
 Accurate bug logging is essential for effective defect management. A well-documented bug helps developers reproduce, investigate, and fix issues quickly.
 
