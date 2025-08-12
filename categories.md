@@ -14,4 +14,3 @@ permalink: /categories/
 
 - [DevOps 🖥]({{ "/categories/devops/" | relative_url }})
   *Environments, CI/CD, config tips, test vs prod.*
-
