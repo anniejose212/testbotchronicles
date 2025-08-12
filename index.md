@@ -45,4 +45,4 @@ This blog is my digital notebook — join me as I explore tools, test strategies
 
 
 
-*Built with 🧑‍💻📚🚀🐞  for continuous learning using GitHub Pages and the Cayman theme.*
+*Built with 🧑‍💻📚🚀🌐  for continuous learning using GitHub Pages and the Cayman theme.*
