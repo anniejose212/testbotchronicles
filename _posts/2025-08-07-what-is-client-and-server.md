@@ -2,7 +2,7 @@
 layout: default
 title: "Client and Server Basics"
 date: 2025-07-08
-categories: [qa]
+categories: [devops]
 description: Explore the distinct roles of clients and servers and how they seamlessly exchange information online
 ---
 
