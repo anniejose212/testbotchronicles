@@ -2,7 +2,7 @@
 layout: default
 title: "Understanding IWebDriver and IWebElement in Selenium with C#"
 date: 2025-08-15
-categories: [selenium, csharp, test-automation]
+categories: [automation-adventures]
 description: A complete guide to IWebDriver and IWebElement, the core interfaces for Selenium automation in C#.
 ---
 
