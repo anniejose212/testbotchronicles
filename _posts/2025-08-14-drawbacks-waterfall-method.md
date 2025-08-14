@@ -13,7 +13,7 @@ The **Waterfall model** follows a linear sequence — moving from requirements t
 ## 1️⃣ Lack of Flexibility
 Once a phase is completed, going back to make changes is difficult and costly.
 
-## 2️⃣ Late Testing
+## 2️⃣ Late Testing 
 Testing happens only after development, which means defects are discovered late in the process.
 
 ## 3️⃣ Poor Adaptability to Change
