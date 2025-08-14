@@ -2,7 +2,7 @@
 layout: default
 title: "Drawbacks of the Waterfall Software Development Model"
 date: 2025-08-14
-categories: [software-development, waterfall]
+categories: [manual-mastery]
 description: Understanding the limitations and risks of using the Waterfall model in modern software projects.
 ---
 
