@@ -11,7 +11,7 @@ permalink: /categories/
 
 - [Automation Adventures 🔌]({{ "/categories/automation-adventures/" | relative_url }})  
   *Automation basics.*
-
+ 
 - [DevOps 🖥]({{ "/categories/devops/" | relative_url }})  
   *Configuration/Operation tips.*
   
