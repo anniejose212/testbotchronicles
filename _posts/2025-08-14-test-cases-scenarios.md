@@ -5,7 +5,6 @@ date: 2025-08-14
 categories: [real-world-test-cases]
 description: End-to-end test scenarios and executable test cases for the Time & Material module in TurnUp.
 ---
-
 # Time & Material — Test Scenarios and Test Cases
 
 ## 1) Scope & Notes
