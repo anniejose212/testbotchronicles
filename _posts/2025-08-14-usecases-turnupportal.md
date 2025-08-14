@@ -2,7 +2,7 @@
 layout: default
 title: "Use Cases for Time and Material Module – TurnUp Portal"
 date: 2025-08-14
-categories: [assignment task]
+categories: [real-world-test-cases]
 description: Detailed use cases for managing Time and Material entries in the TurnUp portal.
 ---
 
