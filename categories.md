@@ -7,7 +7,7 @@ permalink: /categories/
 # Categories
 
 - [Manual Mastery 🛠]({{ "/categories/manual-mastery/" | relative_url }})  
-  *Core QA concepts, defect handling, and testing fundamentals.*
+  *Core QA concepts, defect handling, and testing fundamentals.* 
 
 - [Automation Adventures 🔌]({{ "/categories/automation-adventures/" | relative_url }})  
   *Automation basics.*
