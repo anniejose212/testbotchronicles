@@ -51,6 +51,25 @@ Test automation tools vary in features, supported platforms, and programming lan
 - **Strengths:** Cross-platform, supports native, hybrid, and mobile web apps.
 
 ---
+## 🖥 Web Automation
+- **Selenium**
+- **Playwright**
+- **Cypress**
+
+## 📱 Mobile Automation
+- **Appium**
+- **Espresso**
+- **XCUITest**
+
+## 🔌 API Testing
+- **Postman**
+- **RestAssured**
+- **Karate**
+
+## ⚡ Performance Testing
+- **JMeter**
+- **Gatling**
+- **Locust**
 
 **📌 Conclusion:**  
 The right automation tool depends on factors such as application type, required integrations, budget, and your team’s technical expertise. Often, teams use a combination of tools to achieve full coverage across platforms and devices.
