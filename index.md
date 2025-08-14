@@ -22,7 +22,7 @@ Whether you’re **debugging your first app** or **leading a complex test strate
 - [DevOps 🖥]({{ "/categories/devops/" | relative_url }})  
   *Configuration/Operation tips.*
   
-- [Real-World Test Cases 🧬]({{ "/categories/real world test cases/" | relative_url }})  
+- [Real-World Test Cases 🧬]({{ "/categories/real-world-test-cases/" | relative_url }})  
   *Practical QA blueprints for testing success.*
   
 ---
