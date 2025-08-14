@@ -4,7 +4,7 @@ title: "When to Automate a Test Case"
 date: 2025-08-14
 categories: [automation-adventures]
 description: How to decide the right timing for automating a test case.
----
+--- 
 
 # When to Automate a Test Case
 
