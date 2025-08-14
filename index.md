@@ -28,17 +28,28 @@ Whether you’re **debugging your first app** or **leading a complex test strate
 ---
 
 ## 📝 Recent Posts
-<ul>
-{% for post in site.posts limit:12 %}
-  <li>
-    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-    <span> — {{ post.date | date: "%b %d, %Y" }}</span>
-    {% if post.categories and post.categories.size > 0 %}
-      <em> · <a href="{{ '/categories/' | append: post.categories[0] | append: '/' | relative_url }}">{{ post.categories[0] }}</a></em>
-    {% endif %}
-  </li>
-{% endfor %}
+<ul class="post-list">
+  {% assign posts = site.posts | slice: 0, 12 %}
+  {% for post in posts %}
+    <li>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      <span> — {{ post.date | date: "%-d %b %Y" }}</span>
+
+      {% if post.categories and post.categories.size > 0 %}
+        <em> ·
+          {% for cat in post.categories %}
+            <a href="{{ '/categories/' | append: cat | append: '/' | relative_url }}">{{ cat }}</a>{% unless forloop.last %}, {% endunless %}
+          {% endfor %}
+        </em>
+      {% endif %}
+
+      {%- if post.excerpt -%}
+        <div class="excerpt">{{ post.excerpt | strip_html | truncate: 140 }}</div>
+      {%- endif -%}
+    </li>
+  {% endfor %}
 </ul>
+
 
 
 ## 👩‍💻 About Me
