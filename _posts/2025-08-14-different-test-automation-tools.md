@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Different Test Automation Tools in the Market"
-date: 2025-08-15
+date: 2025-08-14
 categories: [automation-adventures]
 description: An overview of popular test automation tools, their strengths, and their use cases.
 ---
