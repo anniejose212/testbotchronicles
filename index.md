@@ -17,10 +17,13 @@ Whether you’re **debugging your first app** or **leading a complex test strate
   *Core QA concepts, defect handling, and testing fundamentals.*
 
 - [Automation Adventures 🔌]({{ "/categories/automation-adventures/" | relative_url }})  
-  *Learn how APIs work, Postman tips, and client-server basics.*
+  *Automation basics.*
 
 - [DevOps 🖥]({{ "/categories/devops/" | relative_url }})  
-  *Configuration tips and why test vs prod matters.*
+  *Configuration/Operation tips.*
+  
+-[Test applications 🧬]({{ "/categories/applications/" | relative_url }})  
+  *Various applications.*
   
 ---
 
