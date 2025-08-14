@@ -2,7 +2,7 @@
 layout: default
 title: "Categories"
 permalink: /categories/
----
+--- 
 
 # Categories
 
