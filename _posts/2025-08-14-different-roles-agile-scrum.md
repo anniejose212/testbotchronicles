@@ -2,7 +2,7 @@
 layout: default
 title: "Different Roles in an Agile Scrum Team"
 date: 2025-08-14
-categories: [agile, scrum]
+categories: [devops]
 description: A breakdown of key roles in a Scrum team and their responsibilities.
 ---
 
