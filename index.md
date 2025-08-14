@@ -16,7 +16,7 @@ Whether you’re **debugging your first app** or **leading a complex test strate
 - [Manual Mastery 🛠]({{ "/categories/manual-mastery/" | relative_url }})  
   *Core QA concepts, defect handling, and testing fundamentals.*
 
-- [API Adventures 🔌]({{ "/categories/api-adventures/" | relative_url }})  
+- [Automation Adventures 🔌]({{ "/categories/automation-adventures/" | relative_url }})  
   *Learn how APIs work, Postman tips, and client-server basics.*
 
 - [DevOps 🖥]({{ "/categories/devops/" | relative_url }})  
@@ -45,4 +45,4 @@ This blog is my digital notebook — join me as I explore tools, test strategies
 
 
 
-*Built with 🧑‍💻📚🚀🌐  for continuous learning using GitHub Pages and the Cayman theme.*
+*Built with 🧑‍💻📚🚀🌐  for continuous learning using GitHub Pages and the slate theme.*
