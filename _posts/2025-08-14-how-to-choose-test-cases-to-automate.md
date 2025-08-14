@@ -2,7 +2,7 @@
 layout: default
 title: "How to Choose Which Test Cases to Automate" 
 date: 2025-08-14
-categories: [automation-adventures]
+categories: [automation-adventures] 
 description: Criteria for selecting the most valuable test cases to automate.
 ---
 
