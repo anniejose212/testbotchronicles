@@ -6,11 +6,14 @@ permalink: /categories/
 
 # Categories
 
-- [Manual Mastery 🛠]({{ "/categories/manual-mastery/" | relative_url }})
-  *Core QA concepts, test design, bug reporting, STLC.*
+- [Manual Mastery 🛠]({{ "/categories/manual-mastery/" | relative_url }})  
+  *Core QA concepts, defect handling, and testing fundamentals.*
 
-- [Automation Adventures 🔌]({{ "/categories/automation-adventures/" | relative_url }})
-  *APIs, client–server, Postman, request/response basics.*
+- [Automation Adventures 🔌]({{ "/categories/automation-adventures/" | relative_url }})  
+  *Automation basics.*
 
-- [DevOps 🖥]({{ "/categories/devops/" | relative_url }})
-  *Environments, CI/CD, Operations.*
+- [DevOps 🖥]({{ "/categories/devops/" | relative_url }})  
+  *Configuration/Operation tips.*
+  
+-[Test applications 🧬]({{ "/categories/applications/" | relative_url }})  
+  *Various applications.*
