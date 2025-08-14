@@ -2,7 +2,7 @@
 layout: default
 title: "What is Test Automation?"
 date: 2025-08-14
-categories: [test-automation]
+categories: [automation-adventures]
 description: An introduction to test automation and its role in modern software testing.
 ---
 
