@@ -2,7 +2,7 @@
 layout: default
 title: "Time & Material — Test Scenarios and Test Cases"
 date: 2025-08-15
-categories: [qa, manual, selenium, blog]
+categories: [real-world-test-cases]
 description: End-to-end test scenarios and executable test cases for the Time & Material module in TurnUp.
 ---
 
