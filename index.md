@@ -34,18 +34,6 @@ Whether you’re **debugging your first app** or **leading a complex test strate
     <li>
       <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
       <span> — {{ post.date | date: "%-d %b %Y" }}</span>
-
-      {% if post.categories and post.categories.size > 0 %}
-        <em> ·
-          {% for cat in post.categories %}
-            <a href="{{ '/categories/' | append: cat | append: '/' | relative_url }}">{{ cat }}</a>{% unless forloop.last %}, {% endunless %}
-          {% endfor %}
-        </em>
-      {% endif %}
-
-      {%- if post.excerpt -%}
-        <div class="excerpt">{{ post.excerpt | strip_html | truncate: 140 }}</div>
-      {%- endif -%}
     </li>
   {% endfor %}
 </ul>
