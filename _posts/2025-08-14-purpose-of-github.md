@@ -2,7 +2,7 @@
 layout: default
 title: "The Purpose of GitHub"
 date: 2025-08-14
-categories: [version-control, git]
+categories: [devops]
 description: Understanding GitHub’s role in version control, collaboration, and modern software development.
 ---
 
