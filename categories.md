@@ -3,7 +3,6 @@ layout: default
 title: "Categories"
 permalink: /categories/
 --- 
-
 # Categories
 
 - [Manual Mastery 🛠]({{ "/categories/manual-mastery/" | relative_url }})  
