@@ -10,7 +10,7 @@ Here you’ll find **hands-on testing tips, real-world QA experiences, and deep 
 
 Whether you’re **debugging your first app** or **leading a complex test strategy**, this space is designed to help you level up — one post at a time.
 
----
+--- 
 
 ## 📂 Explore by Category
 - [Manual Mastery 🛠]({{ "/categories/manual-mastery/" | relative_url }})    
