@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Benefits of Automating a Test Case"
-date: 2025-08-15
+date: 2025-08-14
 categories: [test-automation, qa]
 description: Key advantages of automating test cases in software projects.
 ---
