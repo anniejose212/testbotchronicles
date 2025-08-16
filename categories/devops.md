@@ -1,6 +1,6 @@
 ---
 layout: category
-title: "DevOps"
+title: "Devops"
 category: devops
 permalink: /categories/devops/
 ---
