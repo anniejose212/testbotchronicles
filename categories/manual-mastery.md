@@ -1,6 +1,6 @@
 ---
 layout: category
-title: "Manual Mastery 🛠"
+title: "Manual Mastery"
 category: manual-mastery
 permalink: /categories/manual-mastery/
 ---
